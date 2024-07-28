@@ -3,7 +3,7 @@ description: auto retry
 
 instructions:
   source:
-    store: bps
+    store: test-repo
     path: oh-yo/mybp/index.md
 
 inputs:
