@@ -4,7 +4,7 @@ description: auto retry
 instructions:
   source:
     store: test-repo
-    path: oh-yo/mybp/index.md
+    path: blueprints/inner/inner/index.md
 
 inputs:
   agent:
